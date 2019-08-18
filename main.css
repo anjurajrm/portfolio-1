@@ -11,16 +11,16 @@
 }
 
 .menu-toggle {
-  margin-top: 25px;
-  padding-right: 15px;
-  font-size: 20px;
+  margin-top: 15px;
+  padding-right: 25px;
+  font-size: 30px;
   cursor: pointer;
 }
 
 .title {
   padding-left: 20px;
   font-family: "Philosopher", sans-serif;
-  font-size: 30px;
+  font-size: 25px;
   margin-top: 15px;
 }
 
@@ -46,9 +46,6 @@
   display: block;
 }
 
-.menu-toggle i:hover {
-  font-size: 30px;
-}
 nav ul {
   display: flex;
   justify-content: center;
@@ -172,6 +169,13 @@ h4 {
   font-size: 20px;
   border-radius: 4px;
   cursor: pointer;
+}
+.tech {
+  padding-top: 35px;
+  text-align: center;
+}
+.tech i {
+  font-size: 35px;
 }
 
 .button2:hover {
