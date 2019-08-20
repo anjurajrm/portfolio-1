@@ -51,7 +51,7 @@ function docNavigation() {
 
     $("body, html").animate(
       {
-        scrollTop: $(".header").offset().top
+        scrollTop: $("header").offset().top
       },
       1000
     );
