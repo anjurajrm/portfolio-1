@@ -1,6 +1,6 @@
 /*---------hamburger menu-----------*/
 function hamburgerMenu() {
-  $(".menu-toggle ").click(function() {
+  $("#menu").click(function() {
     $(".site-nav").toggleClass("site-nav-open", 500);
     $(this).toggleClass("open");
   });
