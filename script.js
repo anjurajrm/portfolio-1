@@ -31,6 +31,18 @@ function myProject() {
   $(".project-1-image").on("click", function(e) {
     window.open("https://anjurajrm.github.io/Batman-quiz-app/");
   });
+
+  $(".btn3").on("click", function(e) {
+    window.open(" https://github.com/anjurajrm/Gamestead");
+  });
+
+  $(".btn4").on("click", function(e) {
+    window.open("https://anjurajrm.github.io/Gamestead/");
+  });
+
+  $(".project-2-image").on("click", function(e) {
+    window.open("https://anjurajrm.github.io/Gamestead/");
+  });
 }
 
 /*------------site navigation--------*/
